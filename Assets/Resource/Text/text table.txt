@@ -1,0 +1,114 @@
+﻿key,text(KR = 0, EN) En -> (. / {), (? / |), (! / })(All : , / &)
+10001,키티,kitty
+10002,헤그,heg
+10003,피기,piggy,
+10004,폴라,pola
+10005,디노,dino
+10006,포피,poppy
+20000,[E54343]{0}초[0D5590] 동안 시간을\n멈춥니다.,[0D5590]Stop the time for [E54343]{0} seconds[0D5590]{
+20001,[0D5590]현재 준비된 퍼즐조각을\n모두 새로운 퍼즐조각으로\n교체합니다.,[0D5590]Change all puzzle pieces to new ones{
+20002,[0D5590]빈 공간 없이 모든 타일을\n아래로 내려보냅니다.,[0D5590]Move the tiles downward so that there's no empty spaces{
+20003,[E54343]{0}턴[0D5590] 동안 얻는 점수가\n2배가 됩니다.,[0D5590]The score will be doubled for [E54343]{0} turns[0D5590]{
+20004,[0D5590]배치했을 때 가로&\n또는 세로의 빈 공간을\n같은 타일로 채워넣습니다.,[0D5590]Place the same tiles in horizontal or vertical empty spaces{
+20005,[0D5590]모든 타일을 제거합니다.,[0D5590]Remove all the tiles{
+20010,[0D5590]게임시간을 [E54343]{0}초[0D5590]\n더 추가합니다.,[0D5590]Add [E54343]{0} seconds[0D5590]{
+20011,[0D5590]콤보가 [E54343]{0}턴[0D5590] 더 유지 됩니다.,[0D5590]Combo remains for [E54343]{0} turns[0D5590]{
+30001,{0}점 이상 획득하기,Get more than {0} scores{
+30002,{0}회 이상 기술 사용하기,Use skill more than {0} times{
+30003,한번에 {0}줄 이상 지우기,Get rid of {0} lines at once{
+30004,연속 {0}콤보 달성하기,Make {0} combos in a row{
+30005,퍼즐 {0}회 이상 배치하기,Put puzzles on the board more than {0} times{
+40000,자&그럼 게임하는 방법을\n살펴볼까요?\n사실 매우 쉽고 간단해요.,Shall we look how to play game| Actually it's very easy{
+40001,아래에 있는 퍼즐조각을\n터치하고 끌어당겨서&,Drag a puzzle piece&
+40002,위에 있는 빈칸에\n올려다 놓으면 되요.,and then drop it on the board{
+40003,가로&\n\n,The line is removed when you fill the space horizontally
+40004,가로& 또는 세로로 한 줄 이상을\n빈 칸 없이 가득채우면\n줄이 사라져요.,The line is removed when you fill the space horizontally or vertically{
+40005,그럼 한번 해볼까요?,Now& shall we begin|
+40100,이번에는 기술 사용하는 방법을\n알아볼께요.,Let me show you how to use skills{
+40101,퍼즐을 채워 줄을 지우면\n지워진 타일과 같은 색상의\n친구에게 포인트가 쌓여요.,When you fill the puzzle and remove the line the friend who has same color can get points{
+40102,여기 포인트를 모두 채워서\n기술을 사용할 준비가 된\n친구가 있군요?,There is a friend who got ready to use the skill{
+40103,기술을 사용할 준비가 된 친구를\n눌러주면 기술을 사용할 수\n있어요.,When you press the friend who is ready to use skills, you can use the skills{
+40104,친구들은 저마다 유용한 기술을\n가지고 있으니\n꼭 사용해 보세요.,Each friend has their own useful skills so you should use them{
+40200,안녕하세요. 저는 폴라& 게임하는 것을 돕기 위해서 나왔어요.,Hello. I am Pola who is here to help playing the game{
+40201,게임은 친구와 함께해야 하는데...\n아무도 없네요? 먼저 친구 하나를 데려와볼까요?,You should play game with your friend but there's no one{ Let's bring a friend{
+40202,여기를 눌러 동물 친구들의\n목록을 열어주세요.,Press here and open the list of friend{
+40203,친구를 데려오려면 행운이 필요해요. 우선 키티를 초대해봐요.,You need a luck to bring a friend{ Let's invite Kitty first{
+40204,자& 행운 100으로\n키티를 데려와 주세요.,Use luck 100 and bring Kitty{
+40205,2층에 키티가 들어왔네요.\n그럼 키티와 함께\n게임을 시작해볼까요?,There's Kitty on the second floor{ Shall we play game with Kitty|
+40206,아래의 시작 버튼을 눌러\n키티와 놀러갈 준비를 해보세요.,Press the start button and get ready to play with Kitty{
+40207,여기를 눌러 단짝친구로\n키티를 선택해주세요.,Press here and make Kitty as best friend{
+40208,키티를 누르면 키티가\n단짝친구로 선택이 돼요.,When you press Kitty& she gets selected as your best friend{
+40209,수고하셨어요.\n그럼 재미있게 게임하세요~,Good job{ Have fun playing the game{
+40300,이번에는 보상에 대해서\n알아볼까요?,Let's learn about reward now{
+40301,저 아래에 빨간색 느낌표가\n보이나요?\n새로운 보상이 있다는 뜻이에요.,Do you see the red exclamation mark| That means there is a reward{
+40302,가서 확인해 볼까요?\n아래 버튼을 눌러\n보상 목록을 열어주세요.,Shall we go and check| Press the button below and open the reward list{
+40303,체크 버튼을 누르면 해당 보상을 받을 수 있어요.,When you press check button you can get reward{
+40304,보상으로 받는 행운이 많으니\n보상을 받는 것을 잊지 마세요.,There are many rewards so don't forget to get rewards{
+50000,게임 {0}회 하기,Play game for {0} times{
+50100,행운 {0} 소비하기,Use {0} lucks{
+50200,기술 {0}회 사용하기,Use {0} skills{
+50300,동물친구 {0}명 데려오기,Bring {0} animal friends{
+50400,동물 레벨을 {0}회 올리기,Raise animal level for {0} times{
+50500,최고점수 {0}점 갱신,Get a score of {0} or above{
+60000,연속으로 줄을 지워\n시간을 추가해보세요.,Remove the lines in a row and add time{
+60001,눈이 피곤하면\n잠시 꺼두셔도 좋아요.,It is okay to turn off the phone when you are eyes are tired{
+60002,혹시 지금 고개를 숙여\n게임을 하고 있나요?,Are you slouching playing the game|
+60003,한번에 여러 줄을 지우면\n높은 점수를 얻을 수 있어요.,When you remove many lines at once you can get high scores{
+60004,재미있게 게임하고 있나요?\n시간 되면 평점과 리뷰 부탁해요.,If you have time please rate us and leave review{
+60005,전 폴라가 가장 좋습니다.,I love pola the most{
+60006,오른쪽 상단의 설정 버튼을 눌러\n배경음과 효과음을\n끄고 켤 수 있어요.,Use the right top button to turn on/off background music and sound effect{
+60007,각 층의 동물들을 눌러\n여러가지 정보를 확인해 보세요.,Press animals on each floor and check their information{
+60008,느낌표가 떴다면\n꼭 눌러보세요.,When you see exclamation mark& you should press it{
+60009,기술의 레벨이 높을수록\n게임이 더 쉬워져요.,When you have high level of skill the game gets easier{
+60010,기술 레벨은 캐릭터 레벨보다\n높을 수 없어요.,Skill level  cannot be higher than character level{
+60011,상점에 가보세요.\무료 행운을 얻을 수 있어요.,Go to store and get free lucks{
+60012,아쉽게 시간이 부족할 때에는\n영상을 보고 이어서 게임해요.,When you need more time you can watch videos and get more time{
+80000,데려오기,Bring
+80001,정보보기,Information
+80002,캐릭터를 선택하세요.,SELECTE A CHARACTER{
+80003,단짝친구,PLAYMATE
+80004,단짝친구를\n추가해주세요.,Add a playmates{
+80005,선택 해제,unselect
+80006,놀러가기,play
+80007,목표,mission
+80008,설정,setup
+80009,데이터 초기화,reset data
+80010,게임을 종료할까요?,Do you want to end the game|
+80011,[0F399F]{0}[4768BB]를 데려올까요?,[4768BB]Do you want to bring\n[0F399F]{0}[4768BB]|
+80012,행운이 부족해요.\n상점으로 갈까요?,You need more luck{ Do you want to go to store|
+80013,놀러가기,Let's Play
+80014,함께 놀러갈 단짝친구를\n선택해주세요.,Please add a playmate\nwho you want to go with{
+80015,일시정지,Pause
+80016,모든 게임 목표 완수!,Clear all missions}
+80017,준비,Ready
+80018,업그레이드,Upgrade
+80019,모두 완료,All Clear
+80020,축하해요!\n{0}개의 행운을\n획득하셨어요!,Congratulations}\nyou got {0} luck{
+80021,축하해요!\n{0}개의 행운을\n획득하셨어요!,Congratulations}\nyou got {0} lucks{
+80022,{0}의 레벨이 부족합니다.,You need more level of {0}{
+80023,{0} 콤보!, {0} COMBO}
+80024,구매,Buy
+80025,상점,Shop
+80026,{0}의 레벨이 {1}이 되면\n기술 레벨 업이 가능합니다.,When {0}'s level becomes {1}& It's possible to level up the skill level{
+80027,레벨이 최대치에 도달했습니다.,The level reached maximum{
+80028,데리고 온 이후에 기술 레벨 업이 가능합니다,You can raise skill level after bring the friend{
+80029,보상,Reward
+80030,결제 과정에서 오류가 발생했습니다.,There was a problem paying{
+80031,해킹이 의심되어 게임을 재시작합니다.,Restart the game because of perceiving hacking{}
+80032,행운\n{0}개,luck\n{0}
+80033,로딩중...,Loading{{{
+80034,무료 행운 {0},Free luck {0}
+80035,문제가 발생하여 광고를 볼 수 없습니다.\n다음에 다시 시도해주세요.,There was a problem related to advertisement{\nPlease try again{
+80036,광고 시청 중 문제가 발생하여\n보상을 받을 수 없습니다.,There was a problem watching advertisement{ You can't get reward{
+80037,광고를 끝까지 시청하지 않아\n보상을 받을 수 없습니다.,You did't finish watching the advertisement so you can't get reward{
+80038,경고 : 앱을 지우면 결제한 행운도 사라집니다.,Warning - luck what you paid will be disappeared if you delete the app{
+80039,Time Up,Time Up
+80040,Game Over,Game Over
+80041,Ready,Ready
+80042,Go,Go
+80043,모든 타일 제거,Remove all tiles
+80044,{0}초 추가,Add {0} seconds
+80045,최소 {0}분마다 계속하기가 가능합니다.,you can continue the game every 10 minutes{
+80046,행운이 {0}만큼 부족해요.,You are short of {0} lucks{
+80047,상점에 오신걸 환영해요.,welcome to the shop{
+80048,무료로 행운 받아가세요.,please get free lucks{

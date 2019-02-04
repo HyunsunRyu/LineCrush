@@ -1,0 +1,13 @@
+﻿key,value,comment
+0,99999,MaxCoinLimmit
+1,100,StartCoin
+2,150,BasicGameTime
+3,2,DoubleSkillScoreBonus
+4,100,DefaultScore
+5,100,FreeCoin
+6,300,FreeCoinTime
+7,1117925,AndroidAdsID
+8,1117926,IOSAdsID
+9,300,ContinueTime
+10,10,ContinueCheckTime
+11,100,ContinueAddTime

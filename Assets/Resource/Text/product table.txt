@@ -1,0 +1,4 @@
+﻿idx,product key,value
+0,luck_type_01,1000
+1,luck_type_02,5000
+2,luck_type_03,10000

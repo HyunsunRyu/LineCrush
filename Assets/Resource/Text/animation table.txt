@@ -1,0 +1,7 @@
+﻿uniqueIdx,image(hello,special1,special2,sleeping),profile,onGame,onPopupOutline
+0,kitty_1,kitty_2,kitty_3,kitty_4,profile_kitty,on_game_kitty,popup_kitty_outline
+1,heg_1,heg_2,heg_3,heg_4,profile_heg,on_game_heg,popup_heg_outline
+2,piggy_1,piggy_2,piggy_3,piggy_4,profile_piggy,on_game_piggy,popup_piggy_outline
+3,polar_1,polar_2,polar_3,polar_4,profile_polar,on_game_polar,popup_polar_outline
+4,dino_1,dino_2,dino_3,dino_4,profile_dino,on_game_dino,popup_dino_outline
+5,poppy_1,poppy_2,poppy_3,poppy_4,profile_poppy,on_game_poppy,popup_poppy_outline
