@@ -133,7 +133,7 @@ public class UIListDragController : MonoBehaviour
             {
                 foreach (KeyValuePair<string, string> btn in buttonNameWithMethod)
                 {
-                    Transform button = item.transform.FindChild(btn.Key);
+                    Transform button = item.transform.Find(btn.Key);
                     if (button == null)
                         continue;
                     pick = button.GetComponent<UIMultiPick>();

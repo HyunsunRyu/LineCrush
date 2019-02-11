@@ -65,7 +65,7 @@ public class LobbyUISystem : UISystem
     public Transform GetUIRoot()
     {
         if (uiRoot == null)
-            uiRoot = transform.FindChild("MainRoot");
+            uiRoot = transform.Find("MainRoot");
         return uiRoot;
     }
 
